@@ -1,0 +1,11 @@
+     ,--.         ,--.                         ,---.
+     |  |  ,---.  |  |,-.   ,---.   ,---.     /  O  \   ,---.   ,---.
+,--. |  | | .-. | |     /  | .-. : (  .-'    |  .-.  | | .-. | | .-. |
+|  '-'  / ' '-' ' |  \  \  \   --. .-'  `)   |  | |  | | '-' ' | '-' '
+ `-----'   `---'  `--'`--'  `----' `----'    `--' `--' |  |-'  |  |-'
+                                                       `--'    `--'
+
+${AnsiColor.BRIGHT_GREEN}Application Name:${AnsiColor.BRIGHT_WHITE}     Spring 5 Web Application
+${AnsiColor.BRIGHT_GREEN}Application Version:${AnsiColor.BRIGHT_WHITE}  0.1
+${AnsiColor.BRIGHT_GREEN}Spring Boot:${AnsiColor.BRIGHT_WHITE}          ${spring-boot.version}
+
